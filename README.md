@@ -1,5 +1,5 @@
 # prediction-bets-tracker
-
+# Plan and build framework
 We need an edge and some research 
 1. track whales with high profit win rate (avoid bots we cant analyze their strategy)
 - track top wallet addresses
@@ -19,3 +19,7 @@ We need an edge and some research
 - volume spikes
 - price momentum
 - correlated markets
+- 
+Data(could have some limits):
+- Polymarket api free
+- kalshi api free
