@@ -6,7 +6,7 @@
 -alert when “smart” wallets enter a market
   
 2. Arbitrage Bot
-  - research arbitrage formulas
+- research arbitrage formulas
 
 3. AI / Probability-Driven Bots
 - If the AI says something has a 60% chance but the market prices it at 45%, the bot can go long. But: These models are just probabilistic estimates — not oracle truth. They can be wrong.
