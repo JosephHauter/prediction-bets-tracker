@@ -1,11 +1,13 @@
 # prediction-bets-tracker
+
+We need an edge and some research 
 1. track whales with high profit win rate (avoid bots we cant analyze their strategy)
 - track top wallet addresses
 - replicate their trades automatically
 - score wallets by performance
 - alert when “smart” wallets enter a market
   
-3. Arbitrage Bot
+2. Arbitrage Bot
 - research arbitrage formulas
 
 3. AI / Probability-Driven Bots
